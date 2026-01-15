@@ -66,7 +66,7 @@ local Module = {
         "going",
         "large",
         "until",
-        "diddy",
+        "diddy", -- I know you want it
         "shall",
         "being",
         "often",
